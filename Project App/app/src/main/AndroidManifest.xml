@@ -9,6 +9,21 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.ProjectApplication">
+        <activity android:name=".PasswordStrengthhelp"
+            android:parentActivityName=".PasswordStrength"
+            ></activity>
+        <activity
+            android:name=".QuizInfo"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Quiz"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".PasswordStrength"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".PasswordGenerator"
+            android:parentActivityName=".MainActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
