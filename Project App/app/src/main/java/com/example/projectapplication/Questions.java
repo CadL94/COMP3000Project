@@ -14,7 +14,7 @@ public class Questions {
             "Which of these scenarios is a common example of a 'phishing' attack?",
             "Which type of cyber-attack is usually performed through text/social media messages and emails?",
             "For a more secure password, what should you make sure your password contains?",
-            "When visiting a website, in the address bar which icon can be seen to show that the website could be secure?",
+            "When visiting a website there are many checks to do to show the website is secure, one of these checks can be seen in the address bar. In the address bar which icon can be seen to show that the website could be secure?",
             "Sharing your personal/sensitive information online could make you at risk of?",
             "You are on your lunch break at work and you notice a work USB stick on the floor outside, what should you do?",
             "You discover your computer you have been working on from home has been infected with ransomware and you cannot access your files and the hacker is demanding you to send 0.2BTC to remove it. What should you do?",
